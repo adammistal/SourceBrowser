@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">SourceBrowser</string>
+    <string name="url_hint">Wpisz adres url</string>
+    <string name="download">pobierz</string>
+    <string name="url_already_loaded">Podany url jest aktualnie załadowany</string>
+    <string name="http_error_no_link_in_db">Błąd HTTP. Brak linku w bazie danych!</string>
+    <string name="no_internet_no_link_in_db">Brak połączenia z internetem. Brak linku w bazie danych!</string>
+    <string name="http_error_code" formatted="false">ERROR CODE: %d</string>
+    <string name="message_get_url">Podaj url!</string>
+    <string name="message_invalid_url">Niepoprawny url!</string>
+    <string name="error">ERROR:</string>
+    <string name="error_text">Błąd</string>
+    <string name="downloading_form_internet_full" formatted="false">Pobieranie z internetu %d / %d</string>
+    <string name="downloading_form_internet" formatted="false">Pobieranie z internetu %d</string>
+    <string name="load_to_web_view" formatted="false">Ładowanie do WebView: %d %%</string>
 </resources>
